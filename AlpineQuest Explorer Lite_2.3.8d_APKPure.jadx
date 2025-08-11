@@ -1,0 +1,37 @@
+{
+  "projectVersion": 2,
+  "files": [
+    "..\\..\\Downloads\\AlpineQuest Explorer Lite_2.3.8d_APKPure.apk"
+  ],
+  "treeExpansionsV2": [
+    "t:JResources//assets",
+    "t:JResources//resources.arsc"
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "class",
+      "tabPath": "psyberia.alpinequest.free.AlpineQuestActivity",
+      "subPath": "java",
+      "caret": 796,
+      "view": {
+        "x": 0,
+        "y": 0
+      },
+      "active": false,
+      "pinned": false,
+      "bookmarked": false,
+      "hidden": false,
+      "previewTab": false
+    }
+  ],
+  "cacheDir": "C:\\Users\\fuugo\\AppData\\Local\\skylot\\jadx\\cache\\projects\\AlpineQuest Explorer Lite_2.3.8d_APKPure-4c08a7dd97efd6935795407d7bad48b7",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "searchResourcesFilter": "*",
+  "searchResourcesSizeLimit": 0,
+  "pluginOptions": {}
+}
